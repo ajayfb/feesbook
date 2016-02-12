@@ -14,9 +14,7 @@
         You can also find <a href="http://go.microsoft.com/fwlink/?LinkID=152368&amp;clcid=0x409"
             title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>.
         
-        I have just updated for Shubro
-            by Ajay by we have chnaged it
-            This is test for me.
-            Ajay has added last line from his home.
+    His this line added from santosh, dell.
+
     </p>
 </asp:Content>
